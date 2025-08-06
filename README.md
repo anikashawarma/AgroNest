@@ -1,7 +1,3 @@
-Here’s an enhanced and professional version of the README file tailored to your forked repository, incorporating the features and credits you've mentioned:
-
----
-
 # 🌾 AI-Powered Farming Assistant Platform
 
 An innovative and integrated farming platform designed to **empower farmers**, **streamline agricultural operations**, and **boost productivity** through modern technology. This system provides a seamless combination of traditional farming tools with cutting-edge digital solutions.
